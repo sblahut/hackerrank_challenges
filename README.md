@@ -1,1 +1,1 @@
-# verious coding challenges
+# various coding challenges
